@@ -1,2 +1,2 @@
 # EncryptNumberSample
-Encrypt Number for SUM number, of Sample value number encrypted.
+Encrypt Script for SUM number, of Sample value number encrypted.
