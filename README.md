@@ -1,2 +1,2 @@
 # EncryptNumberSample
-Encrypt Script for SUM number, of Sample value number encrypted.
+Encryption Script for add SUM[spreadsheet]/subjunction/addition number or amount, of sample value number encrypted.
